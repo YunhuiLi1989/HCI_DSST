@@ -22,8 +22,8 @@ torchvision==0.15.2
 	training dataset: 'https://pan.baidu.com/share/init?surl=X_uXxgyO-mslnCTn4ioyNQ' (code: fo0q)
 	testing dataset:  'https://pan.baidu.com/share/init?surl=LI9tMaSprtxT8PiAG1oETA' (code: efu8)
 	
-	Download the training dataset from 'https://pan.baidu.com/share/init?surl=X_uXxgyO-mslnCTn4ioyNQ' (code: fo0q) and place them to 'DSST\dataset\train_data'.
-	Download the testing dataset from 'https://pan.baidu.com/share/init?surl=LI9tMaSprtxT8PiAG1oETA' (code: efu8) and place them to 'DSST\dataset\valid_data' and 'DSST\dataset\test_data'.
+	Download the training dataset from 'https://pan.baidu.com/share/init?surl=X_uXxgyO-mslnCTn4ioyNQ' (code: fo0q) and place them to 'HCI_DSST\dataset\train_data'.
+	Download the testing dataset from 'https://pan.baidu.com/share/init?surl=LI9tMaSprtxT8PiAG1oETA' (code: efu8) and place them to 'HCI_DSST\dataset\valid_data' and 'HCI_DSST\dataset\test_data'.
 
 
 # Training
